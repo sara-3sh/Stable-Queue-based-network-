@@ -1,0 +1,11 @@
+## This is simulation Code for course project in MATH5593 Linear Programming 
+##  at the University of Colorado-Denver, Fall 2019. 
+## Student contributors: Sajjad Nassirpour and John McFarlane
+
+## ---- Queue-Based Strategy to Achieve Maximum Stable rate in Multi-user Network ---- ##
+
+# values of Erasure probability
+
+param e1 := 0.1;
+param e2 := 0.1;
+param e3 := 0.1;
