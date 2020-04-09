@@ -1,4 +1,4 @@
-# Stable-Queue-based-network
+# Stable-Queue-based-network_sara
 This is the course project for MATH5593 Linear Programming at the University of Colorado-Denver, Fall 2019. 
 
 Student contributors: Sajjad Nassirpour and John McFarlane
